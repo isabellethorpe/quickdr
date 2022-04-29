@@ -1,0 +1,137 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "White",
+  "backgroundimage": "",
+  "borderColor": "",
+  "borderStyle": "",
+  "borderWidth": "",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ViewAppointments",
+        "Elements",
+        "LabelDoctorResults.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ViewAppointments",
+        "Elements",
+        "LabelDoctor.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ViewAppointments",
+        "Elements",
+        "LabelDate.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ViewAppointments",
+        "Elements",
+        "LabelDateResults.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ViewAppointments",
+        "Elements",
+        "LabelTime.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ViewAppointments",
+        "Elements",
+        "LabelTimeResults.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ViewAppointments",
+        "Elements",
+        "LabelSymptoms.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ViewAppointments",
+        "Elements",
+        "LabelSymptomsResults.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ViewAppointments",
+        "Elements",
+        "Toast1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ViewAppointments",
+        "Elements",
+        "ButtonDeleteAppointment.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ViewAppointments",
+        "Elements",
+        "PictureBox1.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 0,
+  "designWidth": 0,
+  "expanded_pmp": null,
+  "fullScreen": "true",
+  "height": 647,
+  "id": "ViewAppointments",
+  "language": "JavaScript",
+  "left": "0",
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "ViewAppointments.onshow()",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": "0",
+  "width": 375
+}
